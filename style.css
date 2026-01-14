@@ -49,6 +49,7 @@ section {
     width: 60%;
     border-radius: 5px;
     font-size: 18px;
+    box-shadow: 0 0 10px black;
 }
 
 .intro {
@@ -69,4 +70,8 @@ section {
 .btn:hover {
     background-color: white;
     color: black;
+}
+
+a{
+    text-decoration: none;
 }
